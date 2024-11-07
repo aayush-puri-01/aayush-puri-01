@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hello, I'm Aayush Puri!
 
-<!--
-**aayush-puri-01/aayush-puri-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **Computer Engineering student from Nepal**, currently diving deep into the world of **Machine Learning, Computer Vision**, and **Cybersecurity**. Welcome to my GitHub profile, where I share my projects, experiments, and learning resources as I work towards becoming a versatile engineer in the field of technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Areas of Interest
+- **Machine Learning & Deep Learning**  
+  I’m especially drawn to the power of deep learning models and their applications across various fields. Currently, I'm going on with my final year major project where we try to leverage the spatial-frequency domain approach for developing a universally generalizable deepfake image detection system.
+  
+- **Computer Vision**  
+  From character recognition to image generation, I’m passionate about **Computer Vision** and have been working on implementing models like **TrOCR** for text recognition and other image processing projects. Stay tuned for more projects as I continue to explore the boundaries of vision technology!
+
+- **Cybersecurity**  
+  First Principles of Penetration Testing.
+---
+
+
+### 🛠️ Skills & Technologies
+- **Programming Languages**: Python, C/C++
+- **Machine Learning Libraries**: TensorFlow, PyTorch, Scikit-Learn
+- **Cybersecurity Tools**: Metasploit framework, Basic Enumeration and Footprinting tools
+- **Data Visualization & Reporting**: LaTeX, Matplotlib
+- **Version Control**: Git
+
+---
